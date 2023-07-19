@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I am Sherlock.
 
-<!--
-**Sherlock113/Sherlock113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on technical content.
+- 🌱 I’m currently learning AI, machine learning, Kubernetes, and Python. 
+- 💬 Ask me about:
+  - Technical content, like docs and blog posts.
+  - Detective novels.
+- 😄 Pronouns: He/His/Him.
+- ⚡ Fun facts:
+  - Big fan of detective novels.
+  - Favorite detectives: Sherlock Holmes, Hercule Poirot, Ellery Queen, Dr. Gideon Fell.
+  - Favorite authors: Arthur Conan Doyle, Agatha Christie, John Dickson Carr.
