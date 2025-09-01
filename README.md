@@ -8,6 +8,8 @@
 [![Medium Badge](https://img.shields.io/badge/Medium%20Blog-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@sherlockxu)](https://medium.com/@sherlockxu)
 
 - 🔭 I’m currently working on technical content.
+  - Docs, blog posts, case studies, etc. [@BentoML](https://github.com/bentoml).
+  - Maintaining [LLM Inference Handbook](https://www.bentoml.com/llm/).
 - 🌱 I’m currently learning AI, machine learning, Kubernetes, and Python. 
 - 💬 Ask me about:
   - Technical content, like docs and blog posts.
