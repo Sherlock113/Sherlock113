@@ -10,6 +10,9 @@
 - 🔭 I’m currently working on technical content.
   - Docs, blog posts, case studies, etc. [@BentoML](https://github.com/bentoml).
   - Maintaining [LLM Inference Handbook](https://www.bentoml.com/llm/).
+- 🎮 I'm building a blood glucose game **Glycohero**: a 2D platformer that turns nutrition science into muscle memory.
+  - Play the demo for free on the [website](https://bloodglucosehero.com/)
+  - [Download on the iOS App Store](https://apps.apple.com/us/app/glycohero/id6768890306)
 - 🌱 I’m currently learning AI, machine learning, Kubernetes, and Python. 
 - 💬 Ask me about:
   - Technical content, like docs and blog posts.
